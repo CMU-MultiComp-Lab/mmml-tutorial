@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cvpr2022/resources/
-title: Tutorial resources
+title: Resources
 ---
 
 Coming soon
