@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: CMU MultiComp Lab
+author: <a href="http://multicomp.cs.cmu.edu/" target="_blank">CMU MultiComp lab</a>
 name: MML Tutorial
 title: Tutorial on Multimodal Machine Learning
 email:
