@@ -1,0 +1,239 @@
+- date: 1/21
+  title: >
+    Week 1: <strong>Course introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a> <a href="11877_week1.pdf">[synopsis]</a>
+  slides:
+  topics:
+    - Course syllabus and requirements
+    - Dimensions of multimodal heterogenity
+  readings:
+    - <a href="https://arxiv.org/abs/1705.09406">Multimodal Machine Learning&#58; A Survey and Taxonomy</a> <br/>
+    - <a href="https://arxiv.org/abs/1206.5538">Representation Learning&#58; A Review and New Perspectives</a> <br/>
+
+- date: 1/28
+  title: >
+    Week 2: <strong>Cross-modal interactions</strong> <a href="11877_week2.pdf">[synopsis]</a>
+  topics:
+    - What are the different ways in which modalities can interact with each other in multimodal tasks? Can we formalize a taxonomy of such cross-modal interactions, which will enable us to compare and contrast them more precisely? <br/>
+    - What are the design decisions (aka inductive biases) that can be used when modeling these cross-modal interactions in machine learning models? <br/>
+    - What are the advantages and drawbacks of designing models to capture each type of cross-modal interaction? Consider not just prediction performance, but tradeoffs in time/space complexity, interpretability, etc. <br/>
+    - Given an arbitrary dataset and prediction task, how can we systematically decide what type of cross-modal interactions exist, and how can that inform our modeling decisions? <br/>
+    - Given trained multimodal models, how can we understand or visualize the nature of cross-modal interactions? <br/>
+  readings:
+    - <a href="https://aclanthology.org/2020.emnlp-main.62/">Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!</a> <br/>
+    - <a href="https://aclanthology.org/2020.acl-main.469/">What Does BERT with Vision Look At?</a> <br/>
+    - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.12337">Cooperative Learning for Multi-view Analysis</a> <br/>
+    - <a href="https://arxiv.org/abs/2109.04448">Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/2012.12352">Seeing past words&#58; Testing the cross-modal capabilities of pretrained V&L models on counting tasks</a> <br/>
+
+- date: 2/4
+  title: >
+    Week 3: <strong>Multimodal co-learning</strong> <a href="11877_week3.pdf">[synopsis]</a>
+  topics:
+    - What are the types of cross-modal interactions involved to enable such co-learning scenarios where multimodal training ends up generalizing to unimodal testing? <br/>
+    - What are some design decisions (inductive bias) that could be made to promote transfer of information from one modality to another? <br/>
+    - How do we ensure that during co-learning, only useful information is transferred, and not some undesirable bias? This may become a bigger issue in low-resource settings. <br/>
+    - How can we know if co-learning has succeeded? Or failed? What approaches could we develop to visualize and probe the success of co-learning? <br/>
+    - How can we formally, empirically, or intuitively measure the additional information provided by auxiliary modality? How can we design controlled experiments to test these hypotheses? <br/>
+    - What are the advantages and drawbacks of information transfer during co-learning? Consider not just prediction performance, but also tradeoffs with complexity, interpretability, fairness, etc. <br/>
+  readings:
+    - <a href="https://arxiv.org/abs/2011.08899">Multimodal Prototypical Networks for Few-shot Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.05677">SMIL&#58; Multimodal Learning with Severely Missing Modality</a> <br/>
+    - <a href="https://arxiv.org/abs/2107.13782">Multimodal Co-learning&#58; Challenges, Applications with Datasets, Recent Advances and Future Directions</a> <br/>
+    - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding with Contextualized, Visual-Grounded Supervision</a> <br/>
+    - <a href="https://arxiv.org/abs/2106.04538">What Makes Multi-modal Learning Better than Single (Provably)</a> <br/>
+    - <a href="https://arxiv.org/abs/1812.07809">Found in Translation&#58; Learning Robust Joint Representations by Cyclic Translations Between Modalities</a> <br/>
+    - <a href="https://arxiv.org/abs/1301.3666">Zero-Shot Learning Through Cross-Modal Transfer</a> <br/>
+    - <a href="https://arxiv.org/abs/1912.02315">12-in-1&#58; Multi-Task Vision and Language Representation Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
+  
+- date: 2/11
+  title: >
+    Week 4: <strong>Pretraining paradigm</strong> <a href="11877_week4.pdf">[synopsis]</a>
+  topics:
+    - Is large-scale pretraining the way forward for building general AI models? What information potentially cannot be captured by pretraining? What are the risks of pretraining? <br/>
+    - What are the types of cross-modal interactions that are likely to be modeled by current pretrained models? What are the cross-modal interactions that will be harder to model with these large-scale pretraining methods? <br/>
+    - How can we best integrate multimodality into pretrained language models? What kind of additional data and modeling/optimization decisions do we need? <br/>
+    - What are the different design decisions when integrating multimodal information in pretraining models and objectives? What are the main advantages and drawbacks of these design choices? Consider not just prediction performance, but tradeoffs in time/space complexity, interpretability, and so on. <br/>
+    - How can we evaluate the type of multimodal information learned in pretrained models? One approach is to look at downstream tasks, but what are other ways to uncover the knowledge stored in pretrained models? <br/>
+  readings:
+    - <a href="https://arxiv.org/abs/2102.00529">Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/2106.13884">Multimodal Few-Shot Learning with Frozen Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2102.02779">Unifying Vision-and-Language Tasks via Text Generation</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.04482">FLAVA&#58; A Foundational Language And Vision Alignment Model</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.05247">Pretrained Transformers as Universal Computation Engines</a> <br/>
+    - <a href="https://arxiv.org/abs/2108.07258">On the Opportunities and Risks of Foundation Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2109.10246">Does Vision-and-Language Pretraining Improve Lexical Grounding?</a> <br/>
+    - <a href="https://arxiv.org/abs/2005.07310">Behind the Scene&#58; Revealing the Secrets of Pre-trained Vision-and-Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/1908.05787">Integrating Multimodal Information in Large Pretrained Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/2102.12092">Zero-Shot Text-to-Image Generation</a> <br/>
+  
+- date: 2/18
+  title: >
+    Week 5: <strong>Multimodal reasoning</strong> <a href="11877_week5.pdf">[synopsis]</a>
+  topics:
+    - What are the various reasoning processes required in multimodal tasks, where data comes from heterogeneous sources? What could be a taxonomy of the main processes involved in multimodal reasoning? <br/>
+    - Are there unique technical challenges that arise because reasoning is performed on multimodal data? What are these unique challenges? How can we start studying these challenges in future research? <br/>
+    - How should we model cross-modal interactions when performing reasoning over multimodal data? Grounding words with visual objects could be an example of a reasoning step required with multimodal data. Other reasoning involved in modeling the different types of cross-modal interactions (e.g., additive, multiplicative)? <br/>
+    - What are the main advantages of reasoning-based approaches, when compared to the large-scale pre-training methods discussed last week? What are the potential issues with reasoning? Can we perform reasoning on very large datasets? Can pre-training methods eventually learn reasoning processes similar to humans? Or will we still need human and domain knowledge to some extent? <br/>
+    - Can you imagine a way to uncover the reasoning capabilities of black-box model, such as a large-scale pre-trained model? How can one discover specifically the cross-modal reasoning processes in such a black-box model? <br/>
+    - To what extent do we need external knowledge when performing reasoning, specifically multimodal reasoning? What type of external knowledge is likely to be needed to succeed in multimodal reasoning? <br/>
+  readings:
+    - <a href="https://arxiv.org/abs/1910.01442">CLEVRER&#58; CoLlision Events for Video REpresentation and Reasoning</a> <br/>
+    - <a href="https://arxiv.org/abs/2006.11524">Neuro-Symbolic Visual Reasoning&#58; Disentangling “Visual” from “Reasoning”</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.01784">Learning to Compose and Reason with Language Tree Structures for Visual Grounding</a> <br/>
+    - <a href="https://arxiv.org/abs/1910.11475">Heterogeneous Graph Learning for Visual Commonsense Reasoning</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.03952">Multimodal Logical Inference System for Visual-Textual Entailment</a> <br/>
+    - <a href="https://arxiv.org/abs/2012.08673">A Closer Look at the Robustness of Vision-and-Language Pre-trained Models</a> <br/>
+    - <a href="https://arxiv.org/abs/1612.06890">CLEVR&#58; A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning</a> <br/>
+    - <a href="https://arxiv.org/abs/2002.08325">VQA-LOL&#58; Visual Question Answering under the Lens of Logic</a> <br/>
+    - <a href="https://arxiv.org/abs/1511.02799">Deep Compositional Question Answering with Neural Module Networks</a> <br/>
+    - <a href="https://arxiv.org/abs/1912.07538">Towards Causal VQA&#58; Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing</a> <br/>
+    - <a href="https://arxiv.org/abs/1507.05670">Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.08614">KAT&#58; A Knowledge Augmented Transformer for Vision-and-Language</a> <br/>
+  
+- date: 2/25
+  title: >
+    Week 6: <strong>Memory and long-term interactions</strong> <a href="11877_week6.pdf">[synopsis]</a>
+  topics:
+    - What are the scenarios in which memory for long-term interactions is required in multimodal tasks, where data comes from heterogeneous sources? What could be a taxonomy of long-range cross-modal interactions that may need to be stored in memory? <br/>
+    - What are certain methods of parametrizing memory in unimodal models that may be applied for multimodal settings, and the various strengths/weaknesses of each approach? <br/>
+    - How should we model long-term cross-modal interactions? How can we design models (perhaps with memory mechanisms) to ensure that these long-term cross-modal interactions are captured? <br/>
+    - What are the main advantages of explicitly building memory-based modules into our architectures, as compared to the large-scale pre-training methods/Transformer models discussed in week 4? Do Transformer models already capture memory and long-term interactions implicitly? <br/>
+    - To what extent do we need external knowledge when performing reasoning, specifically multimodal reasoning? What type of external knowledge is likely to be needed to succeed in multimodal reasoning? <br/>
+    - A related topic is multimodal summarization&#58; how to summarize the main events from a long multimodal sequence. How can we summarize long sequences while keeping cross-modal interactions? What is unique about multimodal summarization? <br/>
+  readings:
+    - <a href="https://arxiv.org/abs/2011.04006">Long Range Arena&#58; A Benchmark for Efficient Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/1907.05242">Large Memory Layers with Product Keys</a> <br/>
+    - <a href="https://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a> <br/>
+    - <a href="https://arxiv.org/abs/1611.05592">Multimodal Memory Modelling for Video Captioning</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.01076">Episodic Memory in Lifelong Language Learning</a> <br/>
+    - <a href="https://aclanthology.org/D18-1280.pdf">ICON&#58; Interactive Conversational Memory Network for Multimodal Emotion Detection</a> <br/>
+    - <a href="https://www.nature.com/articles/nature20101">Hybrid computing using a neural network with dynamic external memory</a> <br/>
+    - <a href="https://arxiv.org/abs/2110.13309">History Aware Multimodal Transformer for Vision-and-Language Navigation</a> <br/>
+    - <a href="https://arxiv.org/abs/2007.03356">Do Transformers Need Deep Long-Range Memory?</a> <br/>
+    - <a href="https://arxiv.org/abs/1901.02860">Transformer-XL&#58; Attentive Language Models Beyond a Fixed-Length Context</a> <br/>
+    - <a href="https://arxiv.org/abs/1410.5401">Neural Turing Machines</a> <br/>
+    - <a href="https://proceedings.mlr.press/v48/santoro16.pdf">Meta-Learning with Memory-Augmented Neural Networks</a> <br/>
+
+- date: 3/4
+  title: >
+    Week 7: <strong>No classes – Spring break</strong>
+  topics:
+    - None!
+  readings: None!
+  
+- date: 3/11
+  title: >
+    Week 8: <strong>No classes – Spring break</strong>
+  topics:
+    - None!
+  readings: None!
+  
+- date: 3/18
+  title: >
+    Week 9: <strong>Brain and multimodal perception</strong> <a href="11877_week9.pdf">[synopsis]</a>
+  topics:
+    - What are the main takeaways from neuroscience regarding unimodal and multimodal processing, integration, alignment, translation, and co-learning? <br/>
+    - How can these insights inform our design of multimodal models, following the topics we covered previously (cross-modal interactions, co-learning, pre-training, reasoning)? <br/>
+    - To what extent should we design AI models with the explicit goal to mirror human perception and reasoning, versus relying on large-scale pre-training methods and general neural network models? <br/>
+    - What different paradigms for multimodal perception and learning could be better aligned with how the brain processes multiple heterogeneous modalities? <br/>
+    - How does the human brain represent different modalities (visual, acoustic)? Are these different modalities represented in very heterogeneous ways? How is information linked between modalities? <br/>
+    - What are several challenges and opportunities in multimodal learning from high-resolution signals such as fMRI and MEG/EEG? <br/>
+    - What are some ways in which multimodal learning can help in the future analysis of data collected in neuroscience? <br/>
+  readings:
+    - <a href="https://books.google.com/books?hl=en&lr=&id=69WESyZJNz0C&oi=fnd&pg=PA3&dq=multimodal+brain+neuroscience&ots=UoYoruz3_o&sig=HLXOevgpm67Lwqk_sCShHeRqYb8#v=onepage&q=multimodal%20brain%20neuroscience&f=false">Multimodal Images in the Brain</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0010945217302277">Multimodal Mental Imagery</a> <br/>
+    - <a href="https://academic.oup.com/cercor/article/11/12/1110/492310">Crossmodal Processing in the Human Brain&#58; Insights from Functional Neuroimaging Studies</a> <br/>
+    - <a href="https://arxiv.org/abs/1711.07998">Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons</a> <br/>
+    - <a href="https://arxiv.org/abs/2011.09850">A Theoretical Computer Science Perspective on Consciousness</a> <br/>
+    - <a href="https://arxiv.org/abs/1911.03268">Inducing brain-relevant bias in natural language processing models</a> <br/>
+    - <a href="https://aclanthology.org/2020.lrec-1.85.pdf">The Brain-IHM Dataset&#58; a New Resource for Studying the Brain Basis of Human-Human and Human-Machine Conversations</a> <br/>
+    - <a href="https://nobaproject.com/modules/multi-modal-perception">Multi-Modal Perception</a> <br/>
+    - <a href="https://arxiv.org/abs/1810.10974">Decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features</a> <br/>
+    - <a href="http://userpage.fu-berlin.de/rmcichy/publication_pdfs/Cichy_et_al_CC_2016.pdf">Similarity-Based Fusion of MEG and fMRI Reveals Spatio-Temporal Dynamics in Human Cortex During Visual Object Recognition</a> <br/>
+    - <a href="https://www.cs.cmu.edu/~hyunahs/papers/SDM2017_1.pdf">BRAINZOOM&#58; High Resolution Reconstruction from Multi-modal Brain Signals</a> <br/>
+  
+- date: 3/25
+  title: >
+    Week 10: <strong>Beyond language and vision</strong>
+  topics:
+    - What are the modalities beyond language and vision that are important for real-world applications? What unique structure do they contain, and what are the main challenges in performing multimodal learning with them? <br/>
+    - When reflecting on the heterogeneous aspect of multimodal learning, how are the other modalities different from language, speech, and vision? What dimensions of heterogeneity are important for these other modalities? <br/>
+    - What are the cross-modal interactions that you expect in these other modalities? Could you see ways to model cross-modal interactions with these other modalities and with language and vision? <br/>
+    - How do the core research problems of unimodal and multimodal processing, integration, alignment, translation, and co-learning generalize to modalities beyond language and vision? What core insights from these ‘common’ modalities have yet to be explored in understudied modalities? <br/>
+    - What is the best way to visualize these relatively understudied modalities? How can we best analyze and characterize the multimodal interactions present between these other modalities? <br/>
+    - How to learn models for many modalities (10+ modalities)? What are the chances to create multimodal learning algorithms that work for all modalities? What are the tradeoffs between modality-specific multimodal models and general-purpose multimodal models? <br/>
+    - If two modalities are very far from each other (strong heterogeneity and/or encoding very different information), how can we address the problem of multimodal learning? <br/>
+  readings:
+    - <a href="https://www.sciencedirect.com/science/article/pii/S1566253521001330">A comprehensive survey on multimodal medical signals fusion for smart healthcare systems</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341579&tag=1">Multimodal Sensor Fusion with Differentiable Filters</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1657787">Integration of EEG/MEG with MRI and fMRI</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6907100">A Multi-Sensor Fusion System for Moving Object Detection and Tracking in Urban Driving Environments</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561847">Detect, Reject, Correct&#58; Crossmodal Compensation of Corrupted Sensors</a> <br/>
+    - <a href="https://arxiv.org/abs/1907.13098">Making Sense of Vision and Touch&#58; Learning Multimodal Representations for Contact-Rich Tasks</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S156625351630077X">Multi-sensor fusion in body sensor networks&#58; State-of-the-art and research challenges</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=126184">Multi-Sensor Fusion&#58; A Perspective</a> <br/>
+    - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.01311">HighMMT&#58; Towards Modality and Task Generalization for High-Modality Representation Learning</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=554212">Sensor Fusion for Mobile Robot Navigation</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520304085">Multi-source information fusion based on rough set theory&#58; A review</a> <br/>
+    - <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmri.20577">Combining EEG and fMRI&#58; A Multimodal Tool for Epilepsy Research</a> <br/>
+    - <a href="https://arxiv.org/abs/1905.11436">Kalman Filter, Sensor Fusion, and Constrained Regression&#58; Equivalences and Insights</a> <br/>
+  
+- date: 4/1
+  title: >
+    Week 11: <strong>Dataset and model biases</strong>
+  topics:
+    - What could be a taxonomy of biases in multimodal datasets and models? <br/>
+    - What are some risks related to biases (e.g., social biases) when creating new datasets? How are these risks potentially amplified or reduced when the dataset is multimodal, with heterogeneous modalities? Are there any biases that are specific to multimodal data? <br/>
+    - What are the imperfections that may arise during human annotations? How do these imperfections in data and labels affect multimodal learning of multimodal representations, cross-modal interactions, co-learning, and pre-training? <br/>
+    - Can biases also emerge not only from the multimodal training data, but also from the modeling design decisions themselves? What aspects of multimodal modeling are most prone to learning and possibly emphasizing biases? <br/>
+    - What are potential solutions for tackling these risks and biases in multimodal datasets and models? How can we properly identify, visualize and eventually reduce these biases in multimodal datasets and models? <br/>
+    - How can we better interpret multimodal datasets and models to check for potential biases? What specific dimensions should we strive to understand? <br/>
+    - What are the tradeoffs between large-scale, noisily-collected and annotated multimodal datasets versus small-scale, carefully-curated and annotated datasets? How do these affect multimodal modeling? How does it relate to the popular pre-training paradigm? <br/>
+  readings:
+    - <a href="https://www.nature.com/articles/s42256-020-00257-z">Shortcut learning in deep neural networks</a> <br/>
+    - <a href="https://aclanthology.org/2021.naacl-main.78.pdf">Measuring Social Biases in Grounded Vision and Language Embeddings</a> <br/>
+    - <a href="https://arxiv.org/abs/2110.01963">Multimodal datasets&#58; misogyny, pornography, and malignant stereotypes</a> <br/>
+    - <a href="https://www.aaai.org/AAAI21Papers/AAAI-9821.YeK.pdf">A Case Study of the Shortcut Effects in Visual Commonsense Reasoning</a> <br/>
+    - <a href="https://arxiv.org/abs/1908.07898">Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.06254">Interpretable Machine Learning&#58; Moving From Mythos to Diagnostics</a> <br/>
+    - <a href="https://arxiv.org/abs/2202.04053">DALL-Eval&#58; Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/1606.08390">Revisiting Visual Question Answering Baselines</a> <br/>
+    - <a href="https://arxiv.org/abs/1606.07356">Analyzing the Behavior of Visual Question Answering Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2002.04108">Adversarial Filters of Dataset Biases</a> <br/>
+    - <a href="https://arxiv.org/abs/2009.10795">Dataset Cartography&#58; Mapping and Diagnosing Datasets with Training Dynamics</a> <br/>
+    - <a href="https://arxiv.org/abs/1803.02324">Annotation Artifacts in Natural Language Inference Data</a> <br/>
+    - <a href="https://arxiv.org/abs/2111.15366">AI and the Everything in the Whole Wide World Benchmark</a> <br/>
+    - <a href="https://arxiv.org/abs/2110.14375">Perceptual Score&#58; What Data Modalities Does Your Model Perceive?</a> <br/>
+    - <a href="https://arxiv.org/abs/2108.02922">Mitigating Dataset Harms Requires Stewardship&#58; Lessons from 1000 Papers</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0893608005000407">Challenges in real-life emotion annotation and machine learning based detection</a> <br/>
+  
+- date: 4/8
+  title: >
+    Week 12: <strong>No classes – CMU Carnival</strong>
+  topics:
+    - None!
+  readings: None!
+  
+- date: 4/15
+  title: >
+    Week 13: <strong>Real-world constraints</strong>
+  topics:
+    - TBD
+  readings: TBD
+  
+- date: 4/22
+  title: >
+    Week 14: <strong>Multimodal generalization</strong>
+  topics:
+    - TBD
+  readings: TBD
+  
+- date: 4/29
+  title: >
+    Week 15: <strong>Low-resource settings</strong>
+  topics:
+    - TBD
+  readings: TBD
