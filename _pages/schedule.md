@@ -15,7 +15,7 @@ title: Schedule
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
 {% assign today_date = "now" | date: "%s" | divided_by: 86400 %}
-{% assign lecture_date = lecture.date | date: "%s" | divided_by: 86400 %}
+{% assign lecture_date = lecture.part | date: "%s" | divided_by: 86400 %}
 {% if today_date > lecture_date %}
     {% assign event_type = "past" %}
 {% elsif today_date <= lecture_date and today_date > prev_date %}
@@ -24,7 +24,7 @@ title: Schedule
 {% assign prev_date = lecture_date %}
 
 <tr class="{{ event_type }}">
-    <th scope="row">{{ lecture.date }}</th>
+    <th scope="row">{{ lecture.part }}</th>
     {% if lecture.title contains 'lectures' %}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4">{{ lecture.title }}</td>
