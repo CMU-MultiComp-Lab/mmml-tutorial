@@ -11,7 +11,7 @@ title: Schedule
 {% assign prev_date = 0 %}
 
 {% for item in site.data.lectures %}
-{% if item.date %}
+{% if item.part %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
 {% assign today_date = "now" | date: "%s" | divided_by: 86400 %}
