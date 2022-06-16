@@ -19,9 +19,9 @@
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
     - Representation fission&#58; factorization, component analysis, disentanglement.<br/>
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>
+    - <a href="https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a> <br/>
+    - <a href="https://arxiv.org/abs/1806.06176">Learning Factorized Multimodal Representations</a> <br/>
     
 - date: 2/4
   title: >
@@ -32,8 +32,7 @@
     - Dependency types: Attention models, graph neural networks, multimodal transformers, multi-instance learning.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2102.00529">Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers</a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep canonical correlation analysis</a> <br/>
   
 - date: 2/11
   title: >
@@ -43,9 +42,8 @@
     - Foundation models: pre-trained models and adaptation.<br/>
     - Model induction: co-training, cross-modal learning.<br/>
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://arxiv.org/abs/2010.06775">Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
   
 - date: 2/18
   title: >
@@ -67,9 +65,8 @@
     - Summarization, translation, and creation.<br/>
     - Model evaluation and ethical concerns.<br/>
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://arxiv.org/abs/2005.00908">Cross-modal Coherence Modeling for Caption Generation</a> <br/>
+    - <a href="https://arxiv.org/abs/2102.12092">Zero-shot Text-to-Image Generation </a> <br/>
 
 - date: 3/18
   title: >
@@ -80,5 +77,5 @@
     - Modality tradeoffs: dataset biases, social biases, theoretical benefits, optimization challenges.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://arxiv.org/abs/2107.08264">M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis</a> <br/>
+    - <a href="https://arxiv.org/abs/1803.09797">Women also Snowboard: Overcoming Bias in Captioning Models</a> <br/>
