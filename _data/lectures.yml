@@ -42,7 +42,7 @@
     - Foundation models&#58; pre-trained models and adaptation.<br/>
     - Model induction&#58; co-training, cross-modal learning.<br/>
   readings:
-    - <a href="https://arxiv.org/abs/2010.06775">Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
+    - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
     - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
   
 - part: 5
@@ -54,10 +54,10 @@
     - Composition&#58; causal and logical relationships.<br/>
     - Knowledge&#58; external knowledge bases, commonsense reasoning.<br/>
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-  
+    - <a href="https://arxiv.org/abs/1904.12584">The Neuro-Symbolic Concept Learner&#58; Interpreting Scenes, Words, and Sentences From Natural Supervision</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
+    - <a href="https://arxiv.org/abs/2002.08325">VQA-LOL&#58; Visual Question Answering Under the Lens of Logic</a> <br/>
+
 - part: 6
   title: >
     <strong>Multimodal generation</strong>
@@ -77,5 +77,5 @@
     - Modality tradeoffs&#58; dataset biases, social biases, theoretical benefits, optimization challenges.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
-    - <a href="https://arxiv.org/abs/2107.08264">M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis</a> <br/>
-    - <a href="https://arxiv.org/abs/1803.09797">Women also Snowboard: Overcoming Bias in Captioning Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2107.08264">M2Lens&#58; Visualizing and Explaining Multimodal Models for Sentiment Analysis</a> <br/>
+    - <a href="https://arxiv.org/abs/1803.09797">Women also Snowboard&#58; Overcoming Bias in Captioning Models</a> <br/>
