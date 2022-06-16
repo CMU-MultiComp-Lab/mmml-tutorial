@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cvpr2022/resources/
+permalink: /resources/
 title: Resources
 ---
 
