@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /cvpr2022/schedule/
+permalink: /schedule/
 title: Schedule
 ---
 
