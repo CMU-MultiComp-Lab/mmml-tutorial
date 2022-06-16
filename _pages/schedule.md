@@ -10,18 +10,6 @@ title: Schedule
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures %}
-{% if item.part %}
-{% assign lecture = item %}
-{% assign event_type = "upcoming" %}
-{% assign today_date = "now" | date: "%s" | divided_by: 86400 %}
-{% assign lecture_date = lecture.part | date: "%s" | divided_by: 86400 %}
-{% if today_date > lecture_date %}
-    {% assign event_type = "past" %}
-{% elsif today_date <= lecture_date and today_date > prev_date %}
-    {% assign event_type = "warning" %}
-{% endif %}
-{% assign prev_date = lecture_date %}
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.part }}</th>
