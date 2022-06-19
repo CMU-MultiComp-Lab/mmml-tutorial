@@ -54,9 +54,16 @@
     - Composition&#58; causal and logical relationships.<br/>
     - Knowledge&#58; external knowledge bases, commonsense reasoning.<br/>
   readings:
+    - <a href="https://arxiv.org/abs/1906.01784">Learning to Compose and Reason with Language Tree Structures for Visual Grounding</a> <br/>
     - <a href="https://arxiv.org/abs/1904.12584">The Neuro-Symbolic Concept Learner&#58; Interpreting Scenes, Words, and Sentences From Natural Supervision</a> <br/>
     - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
+    - <a href="https://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a> <br/>
+    - <a href="https://arxiv.org/abs/1611.05592">Multimodal Memory Modelling for Video Captioning</a> <br/>
+    - <a href="https://aclanthology.org/D18-1280.pdf">ICON&#58; Interactive Conversational Memory Network for Multimodal Emotion Detection</a> <br/>
     - <a href="https://arxiv.org/abs/2002.08325">VQA-LOL&#58; Visual Question Answering Under the Lens of Logic</a> <br/>
+    - <a href="https://arxiv.org/abs/1912.07538">Towards Causal VQA&#58; Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing</a> <br/>
+    - <a href="https://arxiv.org/abs/1507.05670">Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.08614">KAT&#58; A Knowledge Augmented Transformer for Vision-and-Language</a> <br/>
 
 - date: 6
   title: >
