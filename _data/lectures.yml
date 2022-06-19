@@ -38,12 +38,18 @@
     <strong>Alignment</strong>
   topics:
     - Granularity&#58; segmentation, clustering, unit definition.<br/>
-    - Correspondences&#58; latent alignment approaches, attention models, multimodal transformers, multi-instance learning.<br/>
-    - Dependency types&#58; Attention models, graph neural networks, multimodal transformers, multi-instance learning.<br/>
+    - Correspondences&#58; latent alignment approaches, attention models, multimodal transformers.<br/>
+    - Dependency types&#58; graph neural networks, multi-instance learning.<br/>
   readings:
+    - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep Canonical Correlation Analysis</a> <br/>
+    - <a href="https://arxiv.org/abs/2006.14744">Graph Optimal Transport for Cross-domain Alignment</a> <br/>
+    - <a href="https://ibug.doc.ic.ac.uk/media/uploads/documents/deep_canonical_time_warping_(1).pdf">Deep Canonical Time Warping for Simultaneous Alignment and Representation Learning of Sequences</a> <br/>
+    - <a href="https://arxiv.org/abs/1412.2306">Deep Visual-semantic Alignments for Generating Image Descriptions</a> <br/>
+    - <a href="https://arxiv.org/abs/2012.02813">Cross-Modal Generalization&#58; Learning in Low Resource Modalities via Meta-Alignment</a> <br/>
+    - <a href="https://arxiv.org/abs/1908.02265">ViLBERT&#58; Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.00295">Multimodal Transformer for Unaligned Multimodal Language Sequences</a> <br/>
     - <a href="https://arxiv.org/abs/2102.00529">Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers</a> <br/>
-    - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep canonical correlation analysis</a> <br/>
-  
+
 - date: 4
   title: >
     <strong>Transference</strong>
