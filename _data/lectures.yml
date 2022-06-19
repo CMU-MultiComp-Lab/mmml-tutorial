@@ -95,5 +95,15 @@
     - Modality tradeoffs&#58; dataset biases, social biases, theoretical benefits, optimization challenges.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.01311">HighMMT&#58; Towards Modality and Task Generalization for High-Modality Representation Learning</a> <br/>
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2017/html/Tran_Missing_Modalities_Imputation_CVPR_2017_paper.html">Missing Modalities Imputation via Cascaded Residual Autoencoder</a> <br/>
     - <a href="https://arxiv.org/abs/2107.08264">M2Lens&#58; Visualizing and Explaining Multimodal Models for Sentiment Analysis</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.17247">VL-InterpreT&#58; An Interactive Visualization Tool for Interpreting Vision-Language Transformers</a> <br/>
+    - <a href="https://arxiv.org/abs/1606.03490">The Mythos of Model Interpretability</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.06254">Interpretable Machine Learning&#58; Moving From Mythos to Diagnostics</a> <br/>
+    - <a href="https://arxiv.org/abs/2202.01602">The Disagreement Problem in Explainable Machine Learning&#58; A Practitioner's Perspective</a> <br/>
+    - <a href="https://arxiv.org/abs/1810.12366">Do explanations make VQA models more predictable to a human?</a> <br/>
     - <a href="https://arxiv.org/abs/1803.09797">Women also Snowboard&#58; Overcoming Bias in Captioning Models</a> <br/>
+    - <a href="https://aclanthology.org/2021.naacl-main.78.pdf">Measuring Social Biases in Grounded Vision and Language Embeddings</a> <br/>
+    - <a href="https://arxiv.org/abs/2110.01963">Multimodal datasets&#58; misogyny, pornography, and malignant stereotypes</a> <br/>
+    
