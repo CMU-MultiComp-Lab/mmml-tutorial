@@ -72,8 +72,19 @@
     - Summarization, translation, and creation.<br/>
     - Model evaluation and ethical concerns.<br/>
   readings:
+    - <a href="https://arxiv.org/abs/2102.10407">VisualGPT&#58; Data-efficient Adaptation of Pretrained Language Models for Image Captioning</a> <br/>
+    - <a href="https://openai.com/blog/dall-e/">DALL·E&#58; Creating Images from Text</a> and <a href="https://openai.com/dall-e-2/">DALL·E 2</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots&#58; Can Language Models Be Too Big?</a> <br/>
+    - <a href="https://www.liebertpub.com/doi/full/10.1089/cyber.2021.29208.jth">The Social Impact of Deepfakes</a> <br/>
+    - <a href="https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias">What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias</a> <br/>
+    - <a href="https://arxiv.org/abs/2005.03201">What comprises a good talking-head video generation?&#58; A Survey and Benchmark</a> <br/>
+    - <a href="https://arxiv.org/abs/1905.12616">Defending Against Neural Fake News</a> <br/>
+    - <a href="https://thegradient.pub/pulse-lessons/">Lessons from the PULSE Model and Discussion</a> <br/>
     - <a href="https://arxiv.org/abs/2005.00908">Cross-modal Coherence Modeling for Caption Generation</a> <br/>
-    - <a href="https://arxiv.org/abs/2102.12092">Zero-shot Text-to-Image Generation </a> <br/>
+    - <a href="https://arxiv.org/abs/1906.07901">Multimodal Abstractive Summarization for How2 Videos</a> <br/>
+    - <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models</a> <br/>
+    - <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Suwajanakorn_What_Makes_Tom_ICCV_2015_paper.pdf">What Makes Tom Hanks Look Like Tom Hanks</a> <br/>
+    - <a href="https://arxiv.org/abs/1710.00421">Video Generation From Text</a> <br/>
 
 - date: 7
   title: >
