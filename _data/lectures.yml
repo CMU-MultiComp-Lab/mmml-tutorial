@@ -1,6 +1,6 @@
 - date: 1
   title: >
-    <strong>Introduction</strong>
+    <strong>Introduction</strong> <a href="lecture1-Introduction.pdf">[slides]</a>
   slides:
   topics:
     - What is Multimodal? Definitions, dimensions of heterogeneity and cross-modal interactions.<br/>
