@@ -1,6 +1,6 @@
 - date: 1
   title: >
-    <strong>Introduction</strong> <a href="lecture1-Introduction.pdf">[slides]</a>
+    <strong>Introduction</strong> <a href="https://drive.google.com/file/d/1xtXj95tJeBGxD4quXCDYoKqyQTg-BoUf/view?usp=sharing">[slides]</a>
   slides:
   topics:
     - What is Multimodal? Definitions, dimensions of heterogeneity and cross-modal interactions.<br/>
@@ -13,7 +13,7 @@
 
 - date: 2
   title: >
-    <strong>Representation</strong>
+    <strong>Representation</strong> <a href="https://drive.google.com/file/d/1JzByYECmzlloWKjcPsmRrLCj-QngGWLD/view?usp=sharing">[slides]</a>
   topics:
     - Representation fusion&#58; fusion strategies, multimodal auto-encoder.<br/>
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
@@ -32,7 +32,7 @@
     
 - date: 3
   title: >
-    <strong>Alignment</strong>
+    <strong>Alignment</strong> <a href="https://drive.google.com/file/d/1Vku7SqKQiu2BTQ5O-DD9sYUmelno2yrd/view?usp=sharing">[slides]</a>
   topics:
     - Granularity&#58; segmentation, clustering, unit definition.<br/>
     - Correspondences&#58; latent alignment approaches, attention models, multimodal transformers.<br/>
@@ -46,29 +46,10 @@
     - <a href="https://arxiv.org/abs/1908.02265">ViLBERT&#58; Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a> <br/>
     - <a href="https://arxiv.org/abs/1906.00295">Multimodal Transformer for Unaligned Multimodal Language Sequences</a> <br/>
     - <a href="https://arxiv.org/abs/2102.00529">Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers</a> <br/>
-
+  
 - date: 4
   title: >
-    <strong>Transference</strong>
-  topics:
-    - Modality transfer&#58; losses, hallucination, cross-modal transfer.<br/>
-    - Foundation models&#58; pre-trained models and adaptation.<br/>
-    - Model induction&#58; co-training, cross-modal learning.<br/>
-  readings:
-    - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
-    - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
-    - <a href="https://arxiv.org/abs/2011.08899">Multimodal Prototypical Networks for Few-shot Learning</a> <br/>
-    - <a href="https://arxiv.org/abs/2103.05677">SMIL&#58; Multimodal Learning with Severely Missing Modality</a> <br/>
-    - <a href="https://arxiv.org/abs/2107.13782">Multimodal Co-learning&#58; Challenges, Applications with Datasets, Recent Advances and Future Directions</a> <br/>
-    - <a href="https://arxiv.org/abs/2106.04538">What Makes Multi-modal Learning Better than Single (Provably)</a> <br/>
-    - <a href="https://arxiv.org/abs/1812.07809">Found in Translation&#58; Learning Robust Joint Representations by Cyclic Translations Between Modalities</a> <br/>
-    - <a href="https://arxiv.org/abs/1301.3666">Zero-Shot Learning Through Cross-Modal Transfer</a> <br/>
-    - <a href="https://arxiv.org/abs/1912.02315">12-in-1&#58; Multi-Task Vision and Language Representation Learning</a> <br/>
-    - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
-  
-- date: 5
-  title: >
-    <strong>Reasoning</strong>
+    <strong>Reasoning</strong> <a href="https://drive.google.com/file/d/1A_brIgLDT1GRWJRiZXn9VrRgZLazKqKn/view?usp=sharing">[slides]</a>
   topics:
     - Structure&#58; hierarchical, graphical, temporal, and interactive structure, structure discovery.<br/>
     - Concepts&#58; dense and neuro-symbolic.<br/>
@@ -86,9 +67,9 @@
     - <a href="https://arxiv.org/abs/1507.05670">Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries</a> <br/>
     - <a href="https://arxiv.org/abs/2112.08614">KAT&#58; A Knowledge Augmented Transformer for Vision-and-Language</a> <br/>
 
-- date: 6
+- date: 5
   title: >
-    <strong>Generation</strong>
+    <strong>Generation</strong> <a href="https://drive.google.com/file/d/13c4sS80N6rzb1rp_NynhSo4B0GiA2tkx/view?usp=sharing">[slides]</a>
   topics:
     - Summarization, translation, and creation.<br/>
     - Model evaluation and ethical concerns.<br/>
@@ -107,9 +88,28 @@
     - <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Suwajanakorn_What_Makes_Tom_ICCV_2015_paper.pdf">What Makes Tom Hanks Look Like Tom Hanks</a> <br/>
     - <a href="https://arxiv.org/abs/1710.00421">Video Generation From Text</a> <br/>
 
+- date: 6
+  title: >
+    <strong>Transference</strong> <a href="https://drive.google.com/file/d/1Wazw91eU3wjguHNTqzUX1zmFZYqjlIR4/view?usp=sharing">[slides]</a>
+  topics:
+    - Modality transfer&#58; losses, hallucination, cross-modal transfer.<br/>
+    - Foundation models&#58; pre-trained models and adaptation.<br/>
+    - Model induction&#58; co-training, cross-modal learning.<br/>
+  readings:
+    - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2011.08899">Multimodal Prototypical Networks for Few-shot Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.05677">SMIL&#58; Multimodal Learning with Severely Missing Modality</a> <br/>
+    - <a href="https://arxiv.org/abs/2107.13782">Multimodal Co-learning&#58; Challenges, Applications with Datasets, Recent Advances and Future Directions</a> <br/>
+    - <a href="https://arxiv.org/abs/2106.04538">What Makes Multi-modal Learning Better than Single (Provably)</a> <br/>
+    - <a href="https://arxiv.org/abs/1812.07809">Found in Translation&#58; Learning Robust Joint Representations by Cyclic Translations Between Modalities</a> <br/>
+    - <a href="https://arxiv.org/abs/1301.3666">Zero-Shot Learning Through Cross-Modal Transfer</a> <br/>
+    - <a href="https://arxiv.org/abs/1912.02315">12-in-1&#58; Multi-Task Vision and Language Representation Learning</a> <br/>
+    - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
+
 - date: 7
   title: >
-    <strong>Quantification</strong>
+    <strong>Quantification</strong> <a href="https://drive.google.com/file/d/1Df0uS61_aFAc1zaXP-cijsqzOng4kX7A/view?usp=sharing">[slides]</a>
   topics:
     - Output qualities&#58; generalization, robustness, complexity.<br/>
     - Internal mechanics&#58; interpretability, understanding cross-model interactions.<br/>
