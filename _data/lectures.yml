@@ -6,7 +6,6 @@
     - What is Multimodal? Definitions, dimensions of heterogeneity and cross-modal interactions.<br/>
     - Historical view and multimodal research tasks.<br/>
     - Core technical challenges&#58; representation, alignment, transference, reasoning, generation, and quantification.<br/>
-    - Unimodal language, visual, and acoustic representations.<br/>
   readings:
     - <a href="https://arxiv.org/abs/1705.09406">Multimodal Machine Learning&#58; A Survey and Taxonomy</a> <br/>
     - <a href="https://arxiv.org/abs/1206.5538">Representation Learning&#58; A Review and New Perspectives</a> <br/>
