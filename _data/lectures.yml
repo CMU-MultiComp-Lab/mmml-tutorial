@@ -1,6 +1,6 @@
 - date: 1
   title: >
-    <strong>Introduction</strong> <a href="https://drive.google.com/file/d/1xtXj95tJeBGxD4quXCDYoKqyQTg-BoUf/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video]</a>
+    <strong>Introduction</strong> <a href="https://drive.google.com/file/d/1xtXj95tJeBGxD4quXCDYoKqyQTg-BoUf/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video part 1]</a>
   slides:
   topics:
     - What is Multimodal? Definitions, dimensions of heterogeneity and cross-modal interactions.<br/>
@@ -12,7 +12,7 @@
 
 - date: 2
   title: >
-    <strong>Representation</strong> <a href="https://drive.google.com/file/d/1JzByYECmzlloWKjcPsmRrLCj-QngGWLD/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video]</a>
+    <strong>Representation</strong> <a href="https://drive.google.com/file/d/1JzByYECmzlloWKjcPsmRrLCj-QngGWLD/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video part 1]</a>
   topics:
     - Representation fusion&#58; fusion strategies, multimodal auto-encoder.<br/>
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
@@ -31,11 +31,10 @@
     
 - date: 3
   title: >
-    <strong>Alignment</strong> <a href="https://drive.google.com/file/d/1Vku7SqKQiu2BTQ5O-DD9sYUmelno2yrd/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video]</a>
+    <strong>Alignment</strong> <a href="https://drive.google.com/file/d/1Vku7SqKQiu2BTQ5O-DD9sYUmelno2yrd/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1NsrnvEgmToozgTydxCsHyMlvDuRnJBz0/view?usp=sharing">[video part 1]</a>
   topics:
-    - Granularity&#58; segmentation, clustering, unit definition.<br/>
-    - Correspondences&#58; latent alignment approaches, attention models, multimodal transformers.<br/>
-    - Dependency types&#58; graph neural networks, multi-instance learning.<br/>
+    - Explict alignment&#58; time warping, CTC, temporal alignment.<br/>
+    - Implicit alignment and representation&#58; attention models, multimodal transformers, graph neural networks.<br/>
   readings:
     - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep Canonical Correlation Analysis</a> <br/>
     - <a href="https://arxiv.org/abs/2006.14744">Graph Optimal Transport for Cross-domain Alignment</a> <br/>
@@ -48,7 +47,7 @@
   
 - date: 4
   title: >
-    <strong>Reasoning</strong> <a href="https://drive.google.com/file/d/1A_brIgLDT1GRWJRiZXn9VrRgZLazKqKn/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video]</a>
+    <strong>Reasoning</strong> <a href="https://drive.google.com/file/d/1A_brIgLDT1GRWJRiZXn9VrRgZLazKqKn/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video part 2]</a>
   topics:
     - Structure&#58; hierarchical, graphical, temporal, and interactive structure, structure discovery.<br/>
     - Concepts&#58; dense and neuro-symbolic.<br/>
@@ -68,7 +67,7 @@
 
 - date: 5
   title: >
-    <strong>Generation</strong> <a href="https://drive.google.com/file/d/13c4sS80N6rzb1rp_NynhSo4B0GiA2tkx/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video]</a>
+    <strong>Generation</strong> <a href="https://drive.google.com/file/d/13c4sS80N6rzb1rp_NynhSo4B0GiA2tkx/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video part 2]</a>
   topics:
     - Summarization, translation, and creation.<br/>
     - Model evaluation and ethical concerns.<br/>
@@ -89,7 +88,7 @@
 
 - date: 6
   title: >
-    <strong>Transference</strong> <a href="https://drive.google.com/file/d/1Wazw91eU3wjguHNTqzUX1zmFZYqjlIR4/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video]</a>
+    <strong>Transference</strong> <a href="https://drive.google.com/file/d/1Wazw91eU3wjguHNTqzUX1zmFZYqjlIR4/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video part 2]</a>
   topics:
     - Modality transfer&#58; losses, hallucination, cross-modal transfer.<br/>
     - Foundation models&#58; pre-trained models and adaptation.<br/>
@@ -108,7 +107,7 @@
 
 - date: 7
   title: >
-    <strong>Quantification</strong> <a href="https://drive.google.com/file/d/1Df0uS61_aFAc1zaXP-cijsqzOng4kX7A/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video]</a>
+    <strong>Quantification</strong> <a href="https://drive.google.com/file/d/1Df0uS61_aFAc1zaXP-cijsqzOng4kX7A/view?usp=sharing">[slides]</a> <a href="https://drive.google.com/file/d/1LifhBBUPZCxAWvNHo4fyfGZjgM3j_hqW/view?usp=sharing">[video part 2]</a>
   topics:
     - Dimensions of heterogenity&#58; modality importance, dataset biases, social biases, robustness.<br/>
     - Cross-modal interactions&#58; interpretability, classifying cross-model interactions.<br/>
