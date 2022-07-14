@@ -52,7 +52,7 @@
   topics:
     - Structure&#58; hierarchical, graphical, temporal, and interactive structure, structure discovery.<br/>
     - Concepts&#58; dense and neuro-symbolic.<br/>
-    - Composition&#58; causal and logical relationships.<br/>
+    - Inference&#58; logical and causal inference.<br/>
     - Knowledge&#58; external knowledge bases, commonsense reasoning.<br/>
   readings:
     - <a href="https://arxiv.org/abs/1906.01784">Learning to Compose and Reason with Language Tree Structures for Visual Grounding</a> <br/>
@@ -91,9 +91,8 @@
   title: >
     <strong>Transference</strong> <a href="https://drive.google.com/file/d/1Wazw91eU3wjguHNTqzUX1zmFZYqjlIR4/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31uoOV0lx1">[video]</a>
   topics:
-    - Modality transfer&#58; losses, hallucination, cross-modal transfer.<br/>
-    - Foundation models&#58; pre-trained models and adaptation.<br/>
-    - Model induction&#58; co-training, cross-modal learning.<br/>
+    - Transfer via pre-trained models&#58; pre-trained models, prefix tuning, representation tuning, multitask models.<br/>
+    - Co-learning&#58; co-learning via representation and generation.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
     - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
@@ -110,8 +109,8 @@
   title: >
     <strong>Quantification</strong> <a href="https://drive.google.com/file/d/1Df0uS61_aFAc1zaXP-cijsqzOng4kX7A/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31uDYV0lkN">[video]</a>
   topics:
-    - Dimensions of heterogenity&#58; modality importance, dataset biases, social biases, robustness.<br/>
-    - Cross-modal interactions&#58; interpretability, classifying cross-model interactions.<br/>
+    - Dimensions of heterogenity&#58; modality importance, dataset biases, social biases, noise topologies and robustness.<br/>
+    - Cross-modal interactions&#58; interpreting cross-model connections and interactions.<br/>
     - Learning&#58; learning and optimization challenges.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
