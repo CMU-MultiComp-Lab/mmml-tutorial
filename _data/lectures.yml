@@ -14,7 +14,7 @@
   title: >
     <strong>Representation</strong> <a href="https://drive.google.com/file/d/1JzByYECmzlloWKjcPsmRrLCj-QngGWLD/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31t3rV06Ze">[video]</a>
   topics:
-    - Representation fusion&#58; fusion strategies, multimodal auto-encoder.<br/>
+    - Representation fusion&#58; additive, multiplicative, non-linear, complex fusion strategies.<br/>
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
     - Representation fission&#58; factorization, component analysis, clustering.<br/>
   readings:
