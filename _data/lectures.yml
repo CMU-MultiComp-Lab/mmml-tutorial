@@ -16,7 +16,7 @@
   topics:
     - Representation fusion&#58; fusion strategies, multimodal auto-encoder.<br/>
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
-    - Representation fission&#58; factorization, component analysis, disentanglement.<br/>
+    - Representation fission&#58; factorization, component analysis, clustering.<br/>
   readings:
     - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>
     - <a href="https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a> <br/>    
@@ -33,8 +33,9 @@
   title: >
     <strong>Alignment</strong> <a href="https://drive.google.com/file/d/1Vku7SqKQiu2BTQ5O-DD9sYUmelno2yrd/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31u3gV0Iyh">[video]</a>
   topics:
-    - Explict alignment&#58; time warping, CTC, temporal alignment.<br/>
-    - Implicit alignment and representation&#58; attention models, multimodal transformers, graph neural networks.<br/>
+    - Connections&#58; grounding, optimal transport, distribution matching.<br/>
+    - Aligned representations&#58; attention models, multimodal transformers, graph neural networks.<br/>
+    - Segmentation&#58; time warping, CTC, temporal alignment, clustering<br/>
   readings:
     - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep Canonical Correlation Analysis</a> <br/>
     - <a href="https://arxiv.org/abs/2006.14744">Graph Optimal Transport for Cross-domain Alignment</a> <br/>
