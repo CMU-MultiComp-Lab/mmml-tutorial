@@ -27,10 +27,8 @@
     - <a href="https://arxiv.org/abs/2302.12247">Quantifying & Modeling Feature Interactions&#58; An Information Decomposition Framework</a> <br/>
     - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>  
     - <a href="https://arxiv.org/abs/1707.07250">Tensor Fusion Network for Multimodal Sentiment Analysis</a> <br/>
-    - <a href="https://arxiv.org/abs/1702.01992">Gated Multimodal Units for Information Fusion</a> <br/>
     - <a href="https://aclanthology.org/2020.emnlp-main.62/">Does My Multimodal Model Learn Cross-modal Interactions? It’s Harder to Tell Than You Might Think!</a> <br/>
     - <a href="https://arxiv.org/abs/1602.01024">On Deep Multi-View Representation Learning&#58; Objectives and Optimization</a> <br/>
-    - <a href="https://arxiv.org/abs/1411.2539">Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision</a> <br/>
     - <a href="https://arxiv.org/abs/1806.06176">Learning Factorized Multimodal Representations</a> <br/>
     
@@ -49,10 +47,8 @@
     - <a href="https://arxiv.org/abs/2006.14744">Graph Optimal Transport for Cross-domain Alignment</a> <br/>
     - <a href="https://ibug.doc.ic.ac.uk/media/uploads/documents/deep_canonical_time_warping_(1).pdf">Deep Canonical Time Warping for Simultaneous Alignment and Representation Learning of Sequences</a> <br/>
     - <a href="https://arxiv.org/abs/1412.2306">Deep Visual-semantic Alignments for Generating Image Descriptions</a> <br/>
-    - <a href="https://arxiv.org/abs/2012.02813">Cross-Modal Generalization&#58; Learning in Low Resource Modalities via Meta-Alignment</a> <br/>
     - <a href="https://arxiv.org/abs/1908.02265">ViLBERT&#58; Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a> <br/>
     - <a href="https://arxiv.org/abs/1906.00295">Multimodal Transformer for Unaligned Multimodal Language Sequences</a> <br/>
-    - <a href="https://arxiv.org/abs/2102.00529">Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers</a> <br/>
   
 - date: 4
   title: >
@@ -68,11 +64,9 @@
     - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
     - <a href="https://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a> <br/>
     - <a href="https://arxiv.org/abs/1611.05592">Multimodal Memory Modelling for Video Captioning</a> <br/>
-    - <a href="https://aclanthology.org/D18-1280.pdf">ICON&#58; Interactive Conversational Memory Network for Multimodal Emotion Detection</a> <br/>
     - <a href="https://arxiv.org/abs/2002.08325">VQA-LOL&#58; Visual Question Answering Under the Lens of Logic</a> <br/>
     - <a href="https://arxiv.org/abs/1912.07538">Towards Causal VQA&#58; Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing</a> <br/>
     - <a href="https://arxiv.org/abs/1507.05670">Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries</a> <br/>
-    - <a href="https://arxiv.org/abs/2112.08614">KAT&#58; A Knowledge Augmented Transformer for Vision-and-Language</a> <br/>
 
 - date: 5
   title: >
@@ -86,13 +80,8 @@
     - <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots&#58; Can Language Models Be Too Big?</a> <br/>
     - <a href="https://www.liebertpub.com/doi/full/10.1089/cyber.2021.29208.jth">The Social Impact of Deepfakes</a> <br/>
     - <a href="https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias">What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias</a> <br/>
-    - <a href="https://arxiv.org/abs/2005.03201">What comprises a good talking-head video generation?&#58; A Survey and Benchmark</a> <br/>
-    - <a href="https://arxiv.org/abs/1905.12616">Defending Against Neural Fake News</a> <br/>
     - <a href="https://thegradient.pub/pulse-lessons/">Lessons from the PULSE Model and Discussion</a> <br/>
-    - <a href="https://arxiv.org/abs/2005.00908">Cross-modal Coherence Modeling for Caption Generation</a> <br/>
     - <a href="https://arxiv.org/abs/1906.07901">Multimodal Abstractive Summarization for How2 Videos</a> <br/>
-    - <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models</a> <br/>
-    - <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Suwajanakorn_What_Makes_Tom_ICCV_2015_paper.pdf">What Makes Tom Hanks Look Like Tom Hanks</a> <br/>
     - <a href="https://arxiv.org/abs/1710.00421">Video Generation From Text</a> <br/>
 
 - date: 6
@@ -103,16 +92,15 @@
     - Co-learning&#58; co-learning via representation and generation.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2010.06775">Vokenization&#58; Improving Language Understanding via Contextualized, Visually-Grounded Supervision</a> <br/>
+    - <a href="https://arxiv.org/abs/2109.10246">Does Vision-and-Language Pretraining Improve Lexical Grounding?</a> <br/>
     - <a href="https://www.sciencedirect.com/science/article/pii/S1566253520303006">Foundations of Multimodal Co-learning</a> <br/>
-    - <a href="https://arxiv.org/abs/2011.08899">Multimodal Prototypical Networks for Few-shot Learning</a> <br/>
-    - <a href="https://arxiv.org/abs/2103.05677">SMIL&#58; Multimodal Learning with Severely Missing Modality</a> <br/>
     - <a href="https://arxiv.org/abs/2107.13782">Multimodal Co-learning&#58; Challenges, Applications with Datasets, Recent Advances and Future Directions</a> <br/>
-    - <a href="https://arxiv.org/abs/2106.04538">What Makes Multi-modal Learning Better than Single (Provably)</a> <br/>
     - <a href="https://arxiv.org/abs/1812.07809">Found in Translation&#58; Learning Robust Joint Representations by Cyclic Translations Between Modalities</a> <br/>
     - <a href="https://arxiv.org/abs/1301.3666">Zero-Shot Learning Through Cross-Modal Transfer</a> <br/>
     - <a href="https://arxiv.org/abs/1912.02315">12-in-1&#58; Multi-Task Vision and Language Representation Learning</a> <br/>
-    - <a href="https://arxiv.org/abs/1906.03926">A Survey of Reinforcement Learning Informed by Natural Language</a> <br/>
-
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/354756.354805">Analyzing the Effectiveness and Applicability of Co-training</a> <br/>
+    - <a href="https://www.learningtheory.org/colt2008/papers/94-Sridharan.pdf">An Information Theoretic Framework for Multi-view Learning</a> <br/>
+    
 - date: 7
   title: >
     <strong>Quantification</strong> <a href="https://drive.google.com/file/d/1Df0uS61_aFAc1zaXP-cijsqzOng4kX7A/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31uDYV0lkN">[video]</a>
@@ -123,12 +111,7 @@
   readings:
     - <a href="https://arxiv.org/abs/2107.07502">MultiBench&#58; Multiscale Benchmarks for Multimodal Representation Learning</a> <br/>
     - <a href="https://arxiv.org/abs/2203.01311">HighMMT&#58; Towards Modality and Task Generalization for High-Modality Representation Learning</a> <br/>
-    - <a href="https://openaccess.thecvf.com/content_cvpr_2017/html/Tran_Missing_Modalities_Imputation_CVPR_2017_paper.html">Missing Modalities Imputation via Cascaded Residual Autoencoder</a> <br/>
-    - <a href="https://arxiv.org/abs/2107.08264">M2Lens&#58; Visualizing and Explaining Multimodal Models for Sentiment Analysis</a> <br/>
     - <a href="https://arxiv.org/abs/2203.17247">VL-InterpreT&#58; An Interactive Visualization Tool for Interpreting Vision-Language Transformers</a> <br/>
-    - <a href="https://arxiv.org/abs/1606.03490">The Mythos of Model Interpretability</a> <br/>
-    - <a href="https://arxiv.org/abs/2103.06254">Interpretable Machine Learning&#58; Moving From Mythos to Diagnostics</a> <br/>
-    - <a href="https://arxiv.org/abs/2202.01602">The Disagreement Problem in Explainable Machine Learning&#58; A Practitioner's Perspective</a> <br/>
     - <a href="https://arxiv.org/abs/1810.12366">Do explanations make VQA models more predictable to a human?</a> <br/>
     - <a href="https://arxiv.org/abs/1803.09797">Women also Snowboard&#58; Overcoming Bias in Captioning Models</a> <br/>
     - <a href="https://aclanthology.org/2021.naacl-main.78.pdf">Measuring Social Biases in Grounded Vision and Language Embeddings</a> <br/>
