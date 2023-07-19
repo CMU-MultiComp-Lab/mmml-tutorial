@@ -7,6 +7,7 @@
     - Historical view and multimodal research tasks.<br/>
     - Core technical challenges&#58; representation, alignment, transference, reasoning, generation, and quantification.<br/>
   readings:
+    - <a href="https://arxiv.org/abs/2209.03430">Foundations and Trends in Multimodal Machine Learning&#58; Principles, Challenges, and Open Questions</a> <br/>
     - <a href="https://arxiv.org/abs/1705.09406">Multimodal Machine Learning&#58; A Survey and Taxonomy</a> <br/>
     - <a href="https://arxiv.org/abs/1206.5538">Representation Learning&#58; A Review and New Perspectives</a> <br/>
 
@@ -18,8 +19,13 @@
     - Representation coordination&#58; contrastive learning, vector-space models, canonical correlation analysis.<br/>
     - Representation fission&#58; factorization, component analysis, clustering.<br/>
   readings:
-    - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>
-    - <a href="https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a> <br/>    
+    - <a href="https://www.journals.uchicago.edu/doi/epdf/10.1086/431246">Issues in the Classification of Multimodal Communication Signals</a> <br/>
+    - <a href="https://arxiv.org/abs/1004.2515">Nonnegative Decomposition of Multivariate Information</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0378216608003056">Language and Image Interaction in Cartoons&#58; Towards a Multimodal Theory of Humor</a> <br/>
+    - <a href="https://piazza.com/class_profile/get_resource/lcv0w9mqjzy1kx/lds3ewt4t4g6w4">Multimodality and Reading&#58; The Construction of Meaning Through Image-text Interaction</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/1228175.1228254">Examining the Redundancy of Multimodal Input</a> <br/>
+    - <a href="https://arxiv.org/abs/2302.12247">Quantifying & Modeling Feature Interactions&#58; An Information Decomposition Framework</a> <br/>
+    - <a href="https://openreview.net/pdf?id=rylnK6VtDH">Multiplicative Interactions and Where to Find Them</a> <br/>  
     - <a href="https://arxiv.org/abs/1707.07250">Tensor Fusion Network for Multimodal Sentiment Analysis</a> <br/>
     - <a href="https://arxiv.org/abs/1702.01992">Gated Multimodal Units for Information Fusion</a> <br/>
     - <a href="https://aclanthology.org/2020.emnlp-main.62/">Does My Multimodal Model Learn Cross-modal Interactions? It’s Harder to Tell Than You Might Think!</a> <br/>
@@ -27,7 +33,6 @@
     - <a href="https://arxiv.org/abs/1411.2539">Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision</a> <br/>
     - <a href="https://arxiv.org/abs/1806.06176">Learning Factorized Multimodal Representations</a> <br/>
-    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8336846">Multi-view Clustering&#58; A Survey</a> <br/>
     
 - date: 3
   title: >
@@ -37,6 +42,9 @@
     - Aligned representations&#58; attention models, multimodal transformers, graph neural networks.<br/>
     - Segmentation&#58; time warping, CTC, temporal alignment, clustering<br/>
   readings:
+    - <a href="https://arxiv.org/abs/2005.10243">What Makes for Good Views for Contrastive Learning?</a> <br/>
+    - <a href="https://link.springer.com/article/10.1007/s13735-019-00187-6">Characterization and Classification of Semantic Image-text Relations</a> <br/>
+    - <a href="https://www.emerald.com/insight/content/doi/10.1108/00220410310506303/full/pdf?title=a-taxonomy-of-relationships-between-images-and-text">A Taxonomy of Relationships Between Images and Text</a> <br/>
     - <a href="https://home.ttic.edu/~klivescu/papers/andrew_icml2013.pdf">Deep Canonical Correlation Analysis</a> <br/>
     - <a href="https://arxiv.org/abs/2006.14744">Graph Optimal Transport for Cross-domain Alignment</a> <br/>
     - <a href="https://ibug.doc.ic.ac.uk/media/uploads/documents/deep_canonical_time_warping_(1).pdf">Deep Canonical Time Warping for Simultaneous Alignment and Representation Learning of Sequences</a> <br/>
