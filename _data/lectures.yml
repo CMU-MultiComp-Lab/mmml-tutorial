@@ -38,9 +38,9 @@
   title: >
     <strong>Alignment</strong> <a href="https://drive.google.com/file/d/1Vku7SqKQiu2BTQ5O-DD9sYUmelno2yrd/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31u3gV0Iyh">[video]</a>
   topics:
-    - Connections&#58; grounding, optimal transport, distribution matching.<br/>
-    - Aligned representations&#58; attention models, multimodal transformers, graph neural networks.<br/>
-    - Segmentation&#58; time warping, CTC, temporal alignment, clustering<br/>
+    - Discrete alignment&#58; grounding, optimal transport, distribution matching.<br/>
+    - Continuous alignment&#58; time warping, CTC, temporal alignment, clustering.<br/>
+    - Aligned representations&#58; attention models, multimodal transformers.<br/>
   readings:
     - <a href="https://arxiv.org/abs/2005.10243">What Makes for Good Views for Contrastive Learning?</a> <br/>
     - <a href="https://link.springer.com/article/10.1007/s13735-019-00187-6">Characterization and Classification of Semantic Image-text Relations</a> <br/>
